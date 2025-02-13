@@ -3,7 +3,7 @@
   "description": "Aplicação WEB para agendamento de corte de cabelo",
   "author": "Diogo Wernek",
   "scripts": {
-    "server": "json-server --watch server.json --port 3333",
+    "server": "json-server --watch db.json --port 3333",
     "build": "webpack",
     "dev": "webpack serve"
   },
