@@ -17,12 +17,7 @@ The backend API was built with JSON Server, so while it can't be hosted directly
 ** **Install dependencies**
 
 • **In the Visual Studio Code terminal**
-*run: npm install or simply: npm i*
-
-** **Start the server**
-
-• *Create a new terminal in Visual Studio Code and run the following command to start the JSON Server:*
-*npm run server*
+*run: npm install*
 
 ** **Run the application**
 
